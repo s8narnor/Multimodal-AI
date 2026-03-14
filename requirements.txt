@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+librosa
+scikit-learn
+sounddevice
+scipy
+joblib
